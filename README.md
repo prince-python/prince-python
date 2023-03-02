@@ -1,8 +1,8 @@
 
 <h1 align="center" >Hello I'm PRINCE JAT</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center" style="color:blue;">A passionate Full Stack developer from India</h3>
 
-<center><img src="https://www.lambdatest.com/resources/images/news24.gif" width="90% " height="400px"></center>
+<center><img src="https://www.lambdatest.com/resources/images/news24.gif" width="100% " height="400px"></center>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
