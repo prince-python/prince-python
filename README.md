@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm PRINCE JAT</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" height="300px" width="70%">
+<img src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif" height="300px" width="70%">
 
 
 - 💬 Ask me about **PYTHON ,DJANGO , REACT J,S**
