@@ -9,7 +9,11 @@
 - 📫 How to reach me **choudharyprince140@gmail.com**
 
 - ⚡ Fun fact **I CAN LEARN ANYTHING IN FORTNITE**
-
+- <center><h2>LIVE PROJECTS</h2></center>
+<center><h2><a href="https://prince-python.github.io/PrinceJat/" />MY PORTFOLIO</a></h2></center>
+<center><h2><a href="https://live-wether-app-using-django-plaj.vercel.app/" />DJANGO BASED WETHER APP</a></h2></center>
+<center><h2><a href="https://chat-gpt-clone-in-django-with-ai-generation.vercel.app/" />DJANGO BASED PRINCE-GPT AI </a></h2></center>
+<center><h2><a href="https://django-youtube-video-downloader-atdfc96l1-prince-python.vercel.app/" />DJANGO BASED YOTUBE VIDEO DOWNLOADER</a></h2></center>
 
 
 
