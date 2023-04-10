@@ -12,7 +12,7 @@
 - <center><h2>LIVE PROJECTS</h2></center>
 <center><h2><a href="https://prince-python.github.io/PrinceJat/" />MY PORTFOLIO</a></h2></center>
 <center><h2><a href="https://princejathere.000webhostapp.com/" />Old PORTFOLIO</a></h2></center>
-<center><h2><a href="https://dark-fake.vercel.app/" />FAKE DATA GENERATOR </a></h2></center>
+<center><h2><a href="https://dark-fake.vercel.app/" />DATA GENERATOR </a></h2></center>
 <center><h2><a href="https://prince-python.github.io/TEXT-Modder/" />TeXT-MOdder REACT</a></h2></center>
 <center><h2><a href="https://princejathere.000webhostapp.com/calculator.php" />CALCULATOR HTML CSS JAVASCRIPT</a></h2></center>
 <center><h2><a href="https://live-wether-app-using-django-plaj.vercel.app/" />DJANGO BASED WETHER APP</a></h2></center>
