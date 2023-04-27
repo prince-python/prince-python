@@ -17,7 +17,7 @@
 <center><h2><a href="https://live-wether-app-using-django-plaj.vercel.app/" />DJANGO BASED WETHER APP</a></h2></center>
 <center><h2><a href="https://chat-gpt-clone-in-django-with-ai-generation.vercel.app/" />DJANGO BASED PRINCE-GPT AI </a></h2></center>
 <center><h2><a href="https://princejathere.000webhostapp.com/calculator.php" />CALCULATOR HTML CSS JAVASCRIPT</a></h2></center>
-<center><h2><a href="https://studentapi-c8py.onrender.com/" />STUDENT API 3 DATABASE WITH RELATIONSHIP</a></h2></center>
+<center><h2><a href="https://princestudentapi.onrender.com/" />STUDENT API 3 DATABASE WITH RELATIONSHIP</a></h2></center>
 <center><h2><a href="https://django-youtube-video-downloader-atdfc96l1-prince-python.vercel.app/" />DJANGO BASED YOTUBE VIDEO DOWNLOADER</a></h2></center>
 
 
