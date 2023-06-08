@@ -4,11 +4,11 @@
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="300px" width="70%">
 
 
-- 💬 Ask me about KALI LINUX,PYTHON ,DJANGO ,ETHICAL HACKING,REACT JS,YOUR CREDIT CARD DETAIL
+- 💬 Ask me about KALI LINUX,PYTHON ,DJANGO ,ETHICAL HACKING,REACT JS,DART
 
 - 📫 How to reach me **choudharyprince140@gmail.com**
 
-- ⚡ Fun fact **I CAN LEARN ANYTHING IN FORTNITE**
+- ⚡ Fun fact **I CAN LEARN ANYTHING IN 3days NOT JOKINKG TRY ME **
 -LIVE YOUR PROJECTS FREE WITH ME 
 - <center><h2>LIVE PROJECTS</h2></center>
 <center><h2><a href="https://prince-python.github.io/PrinceJat/" />MY PORTFOLIO</a></h2></center>
