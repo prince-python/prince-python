@@ -3,7 +3,7 @@
 
 <!-- Typing Effect -->
 <h1 align="center">
-  <img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=tesla&weight=300&pause=1000&color=3DF70D&center=true&vCenter=true&width=435&lines=HI+I'am+P+R+I+N+C+E+;REACT+%7CDJANGO;PYTHON+%7C+BASH;KALI+LINUX+%7C+BLACK+ARCH+LINUX+" alt="Typing SVG" /></a>" />
+  <a src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=tesla&weight=300&pause=1000&color=3DF70D&center=true&vCenter=true&width=435&lines=HI+I'am+P+R+I+N+C+E+;REACT+%7CDJANGO;PYTHON+%7C+BASH;KALI+LINUX+%7C+BLACK+ARCH+LINUX+" alt="Typing SVG" /></a>"
 </h1>
 
 ---
