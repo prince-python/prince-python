@@ -31,7 +31,7 @@
 | 🤖 **Prince-GPT AI Clone** | Django + AI | [Visit](https://chat-gpt-clone-in-django-with-ai-generation.vercel.app/) |
 | 🧮 **Calculator** | HTML + JS | [Visit](https://princejathere.000webhostapp.com/calculator.php) |
 | 🎓 **Student API (Relational DB)** | Django REST | [Visit](https://princestudentapi.onrender.com/) |
-| 📽️ **YouTube Downloader** | Django | [Visit](https://django-youtube-video-downloader-atdfc96l1-prince-python.vercel.app/) |
+| 📽️ **YouTube Video Downloader** | Django | [Visit](https://django-youtube-video-downloader-atdfc96l1-prince-python.vercel.app/) |
 
 ---
 
