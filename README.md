@@ -3,7 +3,7 @@
 
 <!-- Typing Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=TESLA+Regular&size=24&duration=4000&pause=1000&color=00FFEF&center=true&vCenter=true&width=900&lines=Hi+I%27m+Prince+JAT+%F0%9F%94%AA;Cybersecurity+%7C+Full+Stack+%7C+Pentester;I+Can+Learn+Anything+in+3+Days+%F0%9F%94%A5;Python+%7C+Django+%7C+React+%7C+Hacking+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=TESLA+Regular&size=30&duration=4000&pause=1000&color= #39FF14&center=true&vCenter=true&width=900&lines=Hi+I%27m+Prince+JAT+%F0%9F%94%AA;Cybersecurity+%7C+Full+Stack+%7C+Pentester;I+Can+Learn+Anything+in+3+Days+%F0%9F%94%A5;Python+%7C+Django+%7C+React+%7C+Hacking+Lover" alt="Typing SVG" />
 </h1>
 
 ---
