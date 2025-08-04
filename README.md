@@ -48,7 +48,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+![Kali-Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
