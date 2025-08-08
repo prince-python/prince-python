@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 About Me
 
-🚀 **Cybersecurity Enthusiast** | Full Stack Developer | Aspiring Pentester  
+🚀 **Cybersecurity Enthusiast** | Full Stack Developer | Aspiring Pentester | 
 🎯 Passionate about securing systems, ethical hacking, and building high-impact apps.  
 📍 Indore, Madhya Pradesh  
 📧 **Mail me:** [choudharyprince140@gmail.com](mailto:choudharyprince140@gmail.com)  
