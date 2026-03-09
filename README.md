@@ -32,6 +32,9 @@
 | 🧮 **Calculator** | HTML + JS | [Visit](https://princejathere.000webhostapp.com/calculator.php) |
 | 🎓 **Student API (Relational DB)** | Django REST | [Visit](https://princestudentapi.onrender.com/) |
 | 📽️ **YouTube Video Downloader** | Django | [Visit](https://django-youtube-video-downloader-atdfc96l1-prince-python.vercel.app/) |
+| 📽️ **thematicevents** | React | [Visit](https://thematicevents.com/) |
+| 📽️ **KaalCyberSec** | React | [Visit](https://kaal-1-commit.github.io/KaalCyberSec/) |
+| 📽️ **Anandam Hotel** | React | [Visit](https://thematicevents.github.io/Shri-Anandam/) |
 
 ---
 
