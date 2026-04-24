@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=tesla&weight=300&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=HI+I'am+PRINCE+🔥;FULL+STACK+DEV+%7C+PENTESTER;REACT+%7C+DJANGO+%7C+PYTHON;KALI+LINUX+%7C+CYBER+SECURITY" />
+   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+I'm+Prince+🚀;Cybersecurity+%7C+Full+Stack+Dev;Building+Secure+Apps+🔥" />
   </a>
 </h1>
 
